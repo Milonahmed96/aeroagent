@@ -1,0 +1,33 @@
+# === SECRETS — NEVER COMMIT ===
+.env
+*.key
+secrets.json
+
+# === DATABASE ===
+*.db
+*.sqlite
+
+# === PYTHON ===
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# === JUPYTER ===
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# === OS ===
+.DS_Store
+Thumbs.db
+
+# === IDEs ===
+.vscode/
+.idea/
+*.swp
