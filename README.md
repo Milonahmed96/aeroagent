@@ -12,8 +12,7 @@
 
 ## 🚀 Live Demo
 
-▶️ **[Try the Live Pipeline →](https://huggingface.co/spaces/YOUR_USERNAME/aeroagent)**  
-*(See deployment section to host your own)*
+▶️ **[Try the Live Pipeline →](https://huggingface.co/spaces/Milon96/aeroagent.py)**  
 
 ---
 
@@ -66,7 +65,7 @@ aeroagent/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/aeroagent.git
+git clone https://github.com/Milonahmed96/aeroagent.git
 cd aeroagent
 ```
 
@@ -87,7 +86,7 @@ python aeroagent.py
 ```
 
 ### 5. Or open in Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/aeroagent/blob/main/aeroagent.ipynb)
+[![Open In Colab](https://colab.research.google.com/drive/1nFNW_0M2DKx5h-91qmeM3okbdruywu3E#scrollTo=gmw_-0KwN6T-)
 
 ---
 
@@ -124,19 +123,16 @@ python aeroagent.py
 
 ---
 
-## 🌐 Deployment (Show to Anyone)
+## 🌐 Deployment
 
-### Option A — Hugging Face Spaces (Free, Permanent)
-1. Create account at [huggingface.co](https://huggingface.co)
-2. New Space → Gradio → paste `aeroagent.py`
-3. Add `ANTHROPIC_API_KEY` in Space Settings → Secrets
-4. Share the public URL
+### Hugging Face Spaces
+'https://huggingface.co/spaces/Milon96/aeroagent.py'
 
-### Option B — Gradio Share Link (Quick, 1 week)
+### Gradio Share Link
 ```python
 demo.launch(share=True)  # Already in the notebook
 ```
-Copy the `gradio.live` URL and share it directly.
+Copy the 'https://e7bc60d718f33cedcb.gradio.live' URL and share it directly.
 
 ---
 
@@ -157,6 +153,7 @@ MIT License — see [LICENSE](LICENSE)
 ---
 
 ## 👤 Author
+Milon Ahmed
 
 Built as part of the **AI Engineer Roadmap** portfolio.  
-Connect on [LinkedIn](https://linkedin.com/in/YOUR_USERNAME) | [GitHub](https://github.com/YOUR_USERNAME)
+Connect on [LinkedIn](www.linkedin.com/in/ahmed-intelligence) | [GitHub](https://github.com/Milonahmed96)
